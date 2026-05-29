@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../../цифровая кафедра"
+		},
+		{
+			"name": "test",
+			"path": "."
+		},
+		{
+			"path": "../subfinder"
+		}
+	],
+	"settings": {}
+}
